@@ -29,3 +29,4 @@ Omnija & Sotaeko
 
 ## Screenshots
 
+![Intro](/docs/menu.png)![Intro](/docs/gifts.png)
